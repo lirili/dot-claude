@@ -1,0 +1,12 @@
+# Track only the rules, docs, skills and agent definitions.
+/*
+!/.gitignore
+!/.gitattributes
+!/.editorconfig
+!/CLAUDE.md
+!/README.md
+!/LICENSE
+!/docs/
+!/skills/
+!/agents/
+/skills/synced/
